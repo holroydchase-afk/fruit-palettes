@@ -19,3 +19,7 @@ Issues and small pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.m
 ## License
 
 [MIT](LICENSE)
+
+## How this is built
+
+Built with Claude Code (AI-assisted code, tests and docs). The maintainer directs the work and decides what ships. 
